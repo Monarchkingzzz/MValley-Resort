@@ -7,7 +7,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   // Destination email address for guest enquiries
-  const RESORT_EMAIL = 'info@mugumovalleyresort.com';
+  const RESORT_EMAIL = 'mugumovresort@gmail.com';
 
   const enquiryForm = document.getElementById('enquiryForm') || document.getElementById('f');
   const nameInput = document.getElementById('name') || document.getElementById('n');

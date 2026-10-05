@@ -40,20 +40,20 @@ Open [`index.html`](file:///c:/Users/MonarchKingz/OneDrive/Desktop/MValley-Resor
 - **Dining & Restaurant**: Line ~92 (`#dine` section)
 - **Pool & Amenities**: Line ~116 (`#play` section)
 - **Events & Banquets**: Line ~133 (`#events` section)
-- **Phone numbers & Location**: Line ~142 (`#visit` section)
+- **Contact Information & WhatsApp**: Line ~142 (`#visit` section)
 
 ### 2. Changing Colors, Fonts, and Layout
 Open [`css/style.css`](file:///c:/Users/MonarchKingz/OneDrive/Desktop/MValley-Resort/css/style.css):
 - Top section (`:root`) contains the design variables:
-  - `--deep`: `#0e4a4f` (Resort teal headers & hero background)
-  - `--aqua`: `#37b8b4` (Pool wave & accent lines)
-  - `--gold`: `#f2a93b` (Buttons and highlights)
-  - `--bg`: `#f2f8f6` (Page background)
+  - `--deep`: `#825b3e` (Serene light brown / sandalwood)
+  - `--aqua`: `#b88656` (Serene light brown / camel accent)
+  - `--gold`: `#df9e42` (Warm amber gold highlights)
+  - `--bg`: `#f9f6f0` (Calming light sand linen background)
 - In VS Code, hovering over any hex color code displays an interactive color picker so you can change palette colors visually.
 
 ### 3. Modifying Form Behavior and Email Handling
 Open [`js/main.js`](file:///c:/Users/MonarchKingz/OneDrive/Desktop/MValley-Resort/js/main.js):
-- Change `RESORT_EMAIL` to update the destination address for guest enquiries.
+- `RESORT_EMAIL` is set to `mugumovresort@gmail.com`.
 - Add additional validation or integrate an API / form endpoint if desired.
 
 ---
