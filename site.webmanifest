@@ -1,0 +1,16 @@
+{
+  "name": "The Mugumo Valley Resort",
+  "short_name": "Mugumo Valley",
+  "description": "Riverside resort in Thika, Kenya featuring rooms, dining, swimming pool, kids playground and events.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#825b3e",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
