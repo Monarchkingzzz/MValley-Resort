@@ -452,8 +452,74 @@ section h2 {
 }
 
 /* --------------------------------------------------------------------------
-   8. CONTACT DETAILS & ENQUIRY FORM
+   8. CONTACT DETAILS & ENQUIRY FORM (#visit)
    -------------------------------------------------------------------------- */
+#visit {
+  position: relative;
+  background-color: var(--bg);
+  background-image: 
+    linear-gradient(
+      135deg,
+      rgba(249, 246, 240, 0.88) 0%,
+      rgba(249, 246, 240, 0.82) 45%,
+      rgba(249, 246, 240, 0.90) 100%
+    ),
+    url("../images/find-us-bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 88px 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) #visit {
+    background-image: 
+      linear-gradient(
+        135deg,
+        rgba(28, 21, 17, 0.90) 0%,
+        rgba(28, 21, 17, 0.84) 45%,
+        rgba(28, 21, 17, 0.92) 100%
+      ),
+      url("../images/find-us-bg.jpg");
+  }
+}
+
+:root[data-theme="dark"] #visit {
+  background-image: 
+    linear-gradient(
+      135deg,
+      rgba(28, 21, 17, 0.90) 0%,
+      rgba(28, 21, 17, 0.84) 45%,
+      rgba(28, 21, 17, 0.92) 100%
+    ),
+    url("../images/find-us-bg.jpg");
+}
+
+#visit .contact,
+#visit .enquiry-card {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  padding: 34px 30px;
+  border-radius: 20px;
+  border: 1px solid rgba(229, 219, 206, 0.85);
+  box-shadow: 0 10px 30px rgba(43, 32, 26, 0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) #visit .contact,
+  :root:not([data-theme="light"]) #visit .enquiry-card {
+    background: rgba(38, 29, 23, 0.92);
+    border-color: rgba(61, 47, 38, 0.85);
+  }
+}
+
+:root[data-theme="dark"] #visit .contact,
+:root[data-theme="dark"] #visit .enquiry-card {
+  background: rgba(38, 29, 23, 0.92);
+  border-color: rgba(61, 47, 38, 0.85);
+}
+
 .contact dl {
   margin: 0;
 }
