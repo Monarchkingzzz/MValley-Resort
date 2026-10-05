@@ -430,6 +430,102 @@ section h2 {
   color: #eedccf;
 }
 
+/* --------------------------------------------------------------------------
+   7.05 DINE / RESTAURANT & BAR SECTION (#dine)
+   -------------------------------------------------------------------------- */
+#dine {
+  position: relative;
+  background-color: #1a120c;
+  background-image: 
+    linear-gradient(
+      180deg,
+      rgba(15, 10, 7, 0.62) 0%,
+      rgba(15, 10, 7, 0.40) 50%,
+      rgba(15, 10, 7, 0.68) 100%
+    ),
+    url("../images/dine-bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding: 96px 0;
+}
+
+#dine h2 {
+  color: #ffffff;
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.9), 0 1px 4px rgba(0, 0, 0, 0.95);
+  margin-bottom: 12px;
+}
+
+#dine .lead {
+  color: #ffffff;
+  font-weight: 500;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.95), 0 1px 4px rgba(0, 0, 0, 0.9);
+  max-width: 62ch;
+  margin-bottom: 36px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+#dine .card {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  border-radius: 18px;
+  padding: 28px 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.22);
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+#dine .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.32);
+  border-color: var(--gold);
+  background: rgba(255, 255, 255, 0.98);
+}
+
+#dine .card h3 {
+  color: var(--deep);
+  font-size: 21px;
+  margin-bottom: 10px;
+}
+
+#dine .card p {
+  color: var(--ink);
+  font-size: 15.5px;
+  line-height: 1.55;
+  margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) #dine .card {
+    background: rgba(36, 27, 21, 0.92);
+    border-color: rgba(61, 47, 38, 0.85);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+  }
+  :root:not([data-theme="light"]) #dine .card h3 {
+    color: var(--gold);
+  }
+  :root:not([data-theme="light"]) #dine .card p {
+    color: #ebdcd0;
+  }
+}
+
+:root[data-theme="dark"] #dine .card {
+  background: rgba(36, 27, 21, 0.92);
+  border-color: rgba(61, 47, 38, 0.85);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+
+:root[data-theme="dark"] #dine .card h3 {
+  color: var(--gold);
+}
+
+:root[data-theme="dark"] #dine .card p {
+  color: #ebdcd0;
+}
+
 /* Checklist / Feature Ticks */
 .ticks {
   list-style: none;
@@ -867,6 +963,10 @@ footer {
         rgba(0, 0, 0, 0.32) 100%
       ),
       url("../images/hero-bg.jpg");
+  }
+
+  #dine {
+    padding: 72px 0;
   }
 }
 
