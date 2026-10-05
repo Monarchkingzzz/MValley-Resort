@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 68" width="1440" height="68" preserveAspectRatio="none">
+  <!-- Soft distant background trees for serene atmospheric depth -->
+  <g opacity="0.45" fill="#9e6f45">
+    <g transform="translate(110, 8)">
+    <g transform="scale(-0.68, 0.68)">
+      <path d="M-1 68 L-1 46 C-2 36 -6 28 -18 20 L-17 18 C-4 27 1 34 2 46 L2 68 Z" fill="#825b3e"/>
+      <path d="M1 46 C3 34 10 26 22 17 L23 19 C12 27 5 35 2 48 Z" fill="#825b3e"/>
+      <path d="M-8 27 C-14 24 -22 22 -28 22 L-28 21 C-21 21 -13 23 -7 26 Z" fill="#825b3e"/>
+      <!-- Canopies -->
+      <!-- Left Upper Canopy -->
+      <path d="M-28 17 C-31 17 -32 15 -28 13 C-22 11 -12 10 -4 10 C-1 10 -1 13 -4 14 C-12 16 -20 18 -28 17 Z" fill="#825b3e"/>
+      <!-- Right Main Canopy (Higher) -->
+      <path d="M6 13 C2 13 0 10 4 8 C12 5 24 4 36 6 C40 7 38 10 34 11 C24 12 14 13 6 13 Z" fill="#825b3e"/>
+      <!-- Lower Canopy -->
+      <path d="M-34 23 C-36 23 -37 21 -34 20 C-28 18 -18 18 -12 19 C-10 20 -11 22 -14 23 C-20 24 -28 24 -34 23 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+    <g transform="translate(380, 10)">
+    <g transform="scale(0.6, 0.6)">
+      <!-- Main structural branches and trunk -->
+      <path d="M-2 68 L-2 42 C-3 32 -10 24 -24 16 L-23 14 C-7 22 -1 29 0 38 C2 27 10 19 26 13 L27 15 C13 22 4 29 2 42 L2 68 Z" fill="#825b3e"/>
+      <path d="M-1 38 C-2 28 -8 20 -15 13 L-13 12 C-7 18 -1 26 1 34 Z" fill="#825b3e"/>
+      <path d="M1 34 C3 25 12 18 19 12 L20 13 C14 19 4 25 2 35 Z" fill="#825b3e"/>
+      <!-- Lower side branchlets -->
+      <path d="M-14 22 C-20 20 -28 19 -35 18 L-35 17 C-27 18 -19 19 -13 21 Z" fill="#825b3e"/>
+      <path d="M15 21 C22 19 30 18 38 17 L38 18 C30 19 22 20 14 22 Z" fill="#825b3e"/>
+      
+      <!-- Spreading Flat-Topped Umbrella Foliage Pads -->
+      <!-- Main High Central Canopy (flat top, curved bottom) -->
+      <path d="M-32 9 C-35 9 -37 7 -32 5 C-24 2 -12 0 0 0 C12 0 24 2 32 5 C37 7 35 9 32 9 C20 10 10 11 0 11 C-10 11 -20 10 -32 9 Z" fill="#825b3e"/>
+      <path d="M-24 5 C-26 5 -27 4 -22 2 C-14 0 -5 -1 0 -1 C5 -1 14 0 22 2 C27 4 26 5 24 5 Z" fill="#9e6f45" opacity="0.9"/>
+
+      <!-- Left Mid-Canopy Tier -->
+      <path d="M-46 16 C-49 16 -50 14 -46 12 C-38 10 -26 9 -14 9 C-10 9 -12 12 -16 13 C-26 15 -38 17 -46 16 Z" fill="#825b3e"/>
+
+      <!-- Right Mid-Canopy Tier -->
+      <path d="M14 10 C26 10 38 11 48 13 C52 14 50 17 46 17 C36 17 24 15 14 13 C11 12 11 10 14 10 Z" fill="#825b3e"/>
+
+      <!-- Far Left Outer Accent Foliage -->
+      <path d="M-40 21 C-43 21 -44 19 -41 18 C-35 16 -24 16 -18 17 C-16 18 -17 20 -20 20 C-26 21 -34 22 -40 21 Z" fill="#825b3e" opacity="0.85"/>
+
+      <!-- Far Right Outer Accent Foliage -->
+      <path d="M18 18 C24 17 35 17 41 19 C44 20 43 22 40 22 C34 23 26 22 20 21 C17 21 16 19 18 18 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+    <g transform="translate(680, 8)">
+    <g transform="scale(0.62)">
+      <path d="M-3 68 L-3 44 C-4 32 -14 24 -32 18 L-31 16 C-12 23 -2 30 0 40 C2 30 12 23 31 16 L32 18 C14 24 4 32 3 44 L3 68 Z" fill="#825b3e"/>
+      <path d="M-1 40 C-2 30 -6 22 -12 16 L-10 15 C-4 21 0 29 1 38 Z" fill="#825b3e"/>
+      <path d="M1 38 C2 29 8 21 14 15 L16 16 C10 22 4 30 2 40 Z" fill="#825b3e"/>
+      <!-- Vast Umbrella Canopy -->
+      <path d="M-42 12 C-46 12 -48 10 -43 8 C-30 4 -15 2 0 2 C15 2 30 4 43 8 C48 10 46 12 42 12 C28 14 14 15 0 15 C-14 15 -28 14 -42 12 Z" fill="#825b3e"/>
+      <!-- Mid-tier pads -->
+      <path d="M-52 20 C-55 20 -56 18 -52 16 C-40 14 -26 14 -16 15 C-14 16 -15 18 -18 19 C-28 21 -40 22 -52 20 Z" fill="#825b3e" opacity="0.9"/>
+      <path d="M16 15 C26 14 40 14 52 16 C56 18 55 20 52 20 C40 22 28 21 18 19 C15 18 14 16 16 15 Z" fill="#825b3e" opacity="0.9"/>
+    </g>
+  </g>
+    <g transform="translate(980, 10)">
+    <g transform="scale(0.65, 0.65)">
+      <path d="M-1 68 L-1 46 C-2 36 -6 28 -18 20 L-17 18 C-4 27 1 34 2 46 L2 68 Z" fill="#825b3e"/>
+      <path d="M1 46 C3 34 10 26 22 17 L23 19 C12 27 5 35 2 48 Z" fill="#825b3e"/>
+      <path d="M-8 27 C-14 24 -22 22 -28 22 L-28 21 C-21 21 -13 23 -7 26 Z" fill="#825b3e"/>
+      <!-- Canopies -->
+      <!-- Left Upper Canopy -->
+      <path d="M-28 17 C-31 17 -32 15 -28 13 C-22 11 -12 10 -4 10 C-1 10 -1 13 -4 14 C-12 16 -20 18 -28 17 Z" fill="#825b3e"/>
+      <!-- Right Main Canopy (Higher) -->
+      <path d="M6 13 C2 13 0 10 4 8 C12 5 24 4 36 6 C40 7 38 10 34 11 C24 12 14 13 6 13 Z" fill="#825b3e"/>
+      <!-- Lower Canopy -->
+      <path d="M-34 23 C-36 23 -37 21 -34 20 C-28 18 -18 18 -12 19 C-10 20 -11 22 -14 23 C-20 24 -28 24 -34 23 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+    <g transform="translate(1260, 8)">
+    <g transform="scale(-0.62, 0.62)">
+      <!-- Main structural branches and trunk -->
+      <path d="M-2 68 L-2 42 C-3 32 -10 24 -24 16 L-23 14 C-7 22 -1 29 0 38 C2 27 10 19 26 13 L27 15 C13 22 4 29 2 42 L2 68 Z" fill="#825b3e"/>
+      <path d="M-1 38 C-2 28 -8 20 -15 13 L-13 12 C-7 18 -1 26 1 34 Z" fill="#825b3e"/>
+      <path d="M1 34 C3 25 12 18 19 12 L20 13 C14 19 4 25 2 35 Z" fill="#825b3e"/>
+      <!-- Lower side branchlets -->
+      <path d="M-14 22 C-20 20 -28 19 -35 18 L-35 17 C-27 18 -19 19 -13 21 Z" fill="#825b3e"/>
+      <path d="M15 21 C22 19 30 18 38 17 L38 18 C30 19 22 20 14 22 Z" fill="#825b3e"/>
+      
+      <!-- Spreading Flat-Topped Umbrella Foliage Pads -->
+      <!-- Main High Central Canopy (flat top, curved bottom) -->
+      <path d="M-32 9 C-35 9 -37 7 -32 5 C-24 2 -12 0 0 0 C12 0 24 2 32 5 C37 7 35 9 32 9 C20 10 10 11 0 11 C-10 11 -20 10 -32 9 Z" fill="#825b3e"/>
+      <path d="M-24 5 C-26 5 -27 4 -22 2 C-14 0 -5 -1 0 -1 C5 -1 14 0 22 2 C27 4 26 5 24 5 Z" fill="#9e6f45" opacity="0.9"/>
+
+      <!-- Left Mid-Canopy Tier -->
+      <path d="M-46 16 C-49 16 -50 14 -46 12 C-38 10 -26 9 -14 9 C-10 9 -12 12 -16 13 C-26 15 -38 17 -46 16 Z" fill="#825b3e"/>
+
+      <!-- Right Mid-Canopy Tier -->
+      <path d="M14 10 C26 10 38 11 48 13 C52 14 50 17 46 17 C36 17 24 15 14 13 C11 12 11 10 14 10 Z" fill="#825b3e"/>
+
+      <!-- Far Left Outer Accent Foliage -->
+      <path d="M-40 21 C-43 21 -44 19 -41 18 C-35 16 -24 16 -18 17 C-16 18 -17 20 -20 20 C-26 21 -34 22 -40 21 Z" fill="#825b3e" opacity="0.85"/>
+
+      <!-- Far Right Outer Accent Foliage -->
+      <path d="M18 18 C24 17 35 17 41 19 C44 20 43 22 40 22 C34 23 26 22 20 21 C17 21 16 19 18 18 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+  </g>
+
+  <!-- Crisp foreground African Acacia trees scattered organically -->
+  <g fill="#825b3e" opacity="0.95">
+    <!-- Tree 1: Leftmost framing tree (far left near logo start) -->
+    <g transform="translate(45, 0)">
+    <g transform="scale(0.92, 0.92)">
+      <!-- Main structural branches and trunk -->
+      <path d="M-2 68 L-2 42 C-3 32 -10 24 -24 16 L-23 14 C-7 22 -1 29 0 38 C2 27 10 19 26 13 L27 15 C13 22 4 29 2 42 L2 68 Z" fill="#825b3e"/>
+      <path d="M-1 38 C-2 28 -8 20 -15 13 L-13 12 C-7 18 -1 26 1 34 Z" fill="#825b3e"/>
+      <path d="M1 34 C3 25 12 18 19 12 L20 13 C14 19 4 25 2 35 Z" fill="#825b3e"/>
+      <!-- Lower side branchlets -->
+      <path d="M-14 22 C-20 20 -28 19 -35 18 L-35 17 C-27 18 -19 19 -13 21 Z" fill="#825b3e"/>
+      <path d="M15 21 C22 19 30 18 38 17 L38 18 C30 19 22 20 14 22 Z" fill="#825b3e"/>
+      
+      <!-- Spreading Flat-Topped Umbrella Foliage Pads -->
+      <!-- Main High Central Canopy (flat top, curved bottom) -->
+      <path d="M-32 9 C-35 9 -37 7 -32 5 C-24 2 -12 0 0 0 C12 0 24 2 32 5 C37 7 35 9 32 9 C20 10 10 11 0 11 C-10 11 -20 10 -32 9 Z" fill="#825b3e"/>
+      <path d="M-24 5 C-26 5 -27 4 -22 2 C-14 0 -5 -1 0 -1 C5 -1 14 0 22 2 C27 4 26 5 24 5 Z" fill="#9e6f45" opacity="0.9"/>
+
+      <!-- Left Mid-Canopy Tier -->
+      <path d="M-46 16 C-49 16 -50 14 -46 12 C-38 10 -26 9 -14 9 C-10 9 -12 12 -16 13 C-26 15 -38 17 -46 16 Z" fill="#825b3e"/>
+
+      <!-- Right Mid-Canopy Tier -->
+      <path d="M14 10 C26 10 38 11 48 13 C52 14 50 17 46 17 C36 17 24 15 14 13 C11 12 11 10 14 10 Z" fill="#825b3e"/>
+
+      <!-- Far Left Outer Accent Foliage -->
+      <path d="M-40 21 C-43 21 -44 19 -41 18 C-35 16 -24 16 -18 17 C-16 18 -17 20 -20 20 C-26 21 -34 22 -40 21 Z" fill="#825b3e" opacity="0.85"/>
+
+      <!-- Far Right Outer Accent Foliage -->
+      <path d="M18 18 C24 17 35 17 41 19 C44 20 43 22 40 22 C34 23 26 22 20 21 C17 21 16 19 18 18 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+
+    <!-- Tree 2: Slender twin acacia (mid-left) -->
+    <g transform="translate(240, 2)">
+    <g transform="scale(0.88, 0.88)">
+      <path d="M-1 68 L-1 46 C-2 36 -6 28 -18 20 L-17 18 C-4 27 1 34 2 46 L2 68 Z" fill="#825b3e"/>
+      <path d="M1 46 C3 34 10 26 22 17 L23 19 C12 27 5 35 2 48 Z" fill="#825b3e"/>
+      <path d="M-8 27 C-14 24 -22 22 -28 22 L-28 21 C-21 21 -13 23 -7 26 Z" fill="#825b3e"/>
+      <!-- Canopies -->
+      <!-- Left Upper Canopy -->
+      <path d="M-28 17 C-31 17 -32 15 -28 13 C-22 11 -12 10 -4 10 C-1 10 -1 13 -4 14 C-12 16 -20 18 -28 17 Z" fill="#825b3e"/>
+      <!-- Right Main Canopy (Higher) -->
+      <path d="M6 13 C2 13 0 10 4 8 C12 5 24 4 36 6 C40 7 38 10 34 11 C24 12 14 13 6 13 Z" fill="#825b3e"/>
+      <!-- Lower Canopy -->
+      <path d="M-34 23 C-36 23 -37 21 -34 20 C-28 18 -18 18 -12 19 C-10 20 -11 22 -14 23 C-20 24 -28 24 -34 23 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+
+    <!-- Tree 3: Wide sprawling umbrella tree (center-left gap) -->
+    <g transform="translate(520, -2)">
+    <g transform="scale(0.94)">
+      <path d="M-3 68 L-3 44 C-4 32 -14 24 -32 18 L-31 16 C-12 23 -2 30 0 40 C2 30 12 23 31 16 L32 18 C14 24 4 32 3 44 L3 68 Z" fill="#825b3e"/>
+      <path d="M-1 40 C-2 30 -6 22 -12 16 L-10 15 C-4 21 0 29 1 38 Z" fill="#825b3e"/>
+      <path d="M1 38 C2 29 8 21 14 15 L16 16 C10 22 4 30 2 40 Z" fill="#825b3e"/>
+      <!-- Vast Umbrella Canopy -->
+      <path d="M-42 12 C-46 12 -48 10 -43 8 C-30 4 -15 2 0 2 C15 2 30 4 43 8 C48 10 46 12 42 12 C28 14 14 15 0 15 C-14 15 -28 14 -42 12 Z" fill="#825b3e"/>
+      <!-- Mid-tier pads -->
+      <path d="M-52 20 C-55 20 -56 18 -52 16 C-40 14 -26 14 -16 15 C-14 16 -15 18 -18 19 C-28 21 -40 22 -52 20 Z" fill="#825b3e" opacity="0.9"/>
+      <path d="M16 15 C26 14 40 14 52 16 C56 18 55 20 52 20 C40 22 28 21 18 19 C15 18 14 16 16 15 Z" fill="#825b3e" opacity="0.9"/>
+    </g>
+  </g>
+
+    <!-- Tree 4: Elegant umbrella tree (mid-right between nav links) -->
+    <g transform="translate(820, 0)">
+    <g transform="scale(-0.9, 0.9)">
+      <!-- Main structural branches and trunk -->
+      <path d="M-2 68 L-2 42 C-3 32 -10 24 -24 16 L-23 14 C-7 22 -1 29 0 38 C2 27 10 19 26 13 L27 15 C13 22 4 29 2 42 L2 68 Z" fill="#825b3e"/>
+      <path d="M-1 38 C-2 28 -8 20 -15 13 L-13 12 C-7 18 -1 26 1 34 Z" fill="#825b3e"/>
+      <path d="M1 34 C3 25 12 18 19 12 L20 13 C14 19 4 25 2 35 Z" fill="#825b3e"/>
+      <!-- Lower side branchlets -->
+      <path d="M-14 22 C-20 20 -28 19 -35 18 L-35 17 C-27 18 -19 19 -13 21 Z" fill="#825b3e"/>
+      <path d="M15 21 C22 19 30 18 38 17 L38 18 C30 19 22 20 14 22 Z" fill="#825b3e"/>
+      
+      <!-- Spreading Flat-Topped Umbrella Foliage Pads -->
+      <!-- Main High Central Canopy (flat top, curved bottom) -->
+      <path d="M-32 9 C-35 9 -37 7 -32 5 C-24 2 -12 0 0 0 C12 0 24 2 32 5 C37 7 35 9 32 9 C20 10 10 11 0 11 C-10 11 -20 10 -32 9 Z" fill="#825b3e"/>
+      <path d="M-24 5 C-26 5 -27 4 -22 2 C-14 0 -5 -1 0 -1 C5 -1 14 0 22 2 C27 4 26 5 24 5 Z" fill="#9e6f45" opacity="0.9"/>
+
+      <!-- Left Mid-Canopy Tier -->
+      <path d="M-46 16 C-49 16 -50 14 -46 12 C-38 10 -26 9 -14 9 C-10 9 -12 12 -16 13 C-26 15 -38 17 -46 16 Z" fill="#825b3e"/>
+
+      <!-- Right Mid-Canopy Tier -->
+      <path d="M14 10 C26 10 38 11 48 13 C52 14 50 17 46 17 C36 17 24 15 14 13 C11 12 11 10 14 10 Z" fill="#825b3e"/>
+
+      <!-- Far Left Outer Accent Foliage -->
+      <path d="M-40 21 C-43 21 -44 19 -41 18 C-35 16 -24 16 -18 17 C-16 18 -17 20 -20 20 C-26 21 -34 22 -40 21 Z" fill="#825b3e" opacity="0.85"/>
+
+      <!-- Far Right Outer Accent Foliage -->
+      <path d="M18 18 C24 17 35 17 41 19 C44 20 43 22 40 22 C34 23 26 22 20 21 C17 21 16 19 18 18 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+
+    <!-- Tree 5: Twin acacia (near right nav items) -->
+    <g transform="translate(1110, 2)">
+    <g transform="scale(-0.86, 0.86)">
+      <path d="M-1 68 L-1 46 C-2 36 -6 28 -18 20 L-17 18 C-4 27 1 34 2 46 L2 68 Z" fill="#825b3e"/>
+      <path d="M1 46 C3 34 10 26 22 17 L23 19 C12 27 5 35 2 48 Z" fill="#825b3e"/>
+      <path d="M-8 27 C-14 24 -22 22 -28 22 L-28 21 C-21 21 -13 23 -7 26 Z" fill="#825b3e"/>
+      <!-- Canopies -->
+      <!-- Left Upper Canopy -->
+      <path d="M-28 17 C-31 17 -32 15 -28 13 C-22 11 -12 10 -4 10 C-1 10 -1 13 -4 14 C-12 16 -20 18 -28 17 Z" fill="#825b3e"/>
+      <!-- Right Main Canopy (Higher) -->
+      <path d="M6 13 C2 13 0 10 4 8 C12 5 24 4 36 6 C40 7 38 10 34 11 C24 12 14 13 6 13 Z" fill="#825b3e"/>
+      <!-- Lower Canopy -->
+      <path d="M-34 23 C-36 23 -37 21 -34 20 C-28 18 -18 18 -12 19 C-10 20 -11 22 -14 23 C-20 24 -28 24 -34 23 Z" fill="#825b3e" opacity="0.85"/>
+    </g>
+  </g>
+
+    <!-- Tree 6: Rightmost framing tree (far right) -->
+    <g transform="translate(1380, -2)">
+    <g transform="scale(0.92)">
+      <path d="M-3 68 L-3 44 C-4 32 -14 24 -32 18 L-31 16 C-12 23 -2 30 0 40 C2 30 12 23 31 16 L32 18 C14 24 4 32 3 44 L3 68 Z" fill="#825b3e"/>
+      <path d="M-1 40 C-2 30 -6 22 -12 16 L-10 15 C-4 21 0 29 1 38 Z" fill="#825b3e"/>
+      <path d="M1 38 C2 29 8 21 14 15 L16 16 C10 22 4 30 2 40 Z" fill="#825b3e"/>
+      <!-- Vast Umbrella Canopy -->
+      <path d="M-42 12 C-46 12 -48 10 -43 8 C-30 4 -15 2 0 2 C15 2 30 4 43 8 C48 10 46 12 42 12 C28 14 14 15 0 15 C-14 15 -28 14 -42 12 Z" fill="#825b3e"/>
+      <!-- Mid-tier pads -->
+      <path d="M-52 20 C-55 20 -56 18 -52 16 C-40 14 -26 14 -16 15 C-14 16 -15 18 -18 19 C-28 21 -40 22 -52 20 Z" fill="#825b3e" opacity="0.9"/>
+      <path d="M16 15 C26 14 40 14 52 16 C56 18 55 20 52 20 C40 22 28 21 18 19 C15 18 14 16 16 15 Z" fill="#825b3e" opacity="0.9"/>
+    </g>
+  </g>
+  </g>
+
+  <!-- Subtle ground savannah horizon line along the bottom border -->
+  <g fill="#825b3e" opacity="0.35">
+    <line x1="0" y1="67" x2="1440" y2="67" stroke="#825b3e" stroke-width="1"/>
+    <!-- Gentle grass sprigs -->
+    <path d="M40 67 L42 63 L44 67 M105 67 L107 64 L110 67 M235 67 L237 63 L240 67 M375 67 L377 64 L380 67 M515 67 L517 63 L520 67 M675 67 L677 64 L680 67 M815 67 L817 63 L820 67 M975 67 L977 64 L980 67 M1105 67 L1107 63 L1110 67 M1255 67 L1257 64 L1260 67 M1375 67 L1377 63 L1380 67" stroke="#825b3e" stroke-width="1"/>
+  </g>
+</svg>
