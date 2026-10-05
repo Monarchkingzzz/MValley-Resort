@@ -4,7 +4,6 @@
   "description": "Website for The Mugumo Valley Resort in Thika, Kenya",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Static build ready for Vercel'",
     "start": "npx -y serve .",
     "dev": "npx -y live-server"
   },
