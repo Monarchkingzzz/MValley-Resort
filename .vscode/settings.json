@@ -1,0 +1,21 @@
+{
+  "liveServer.settings.defaultFile": "index.html",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "livePreview.defaultPreviewPath": "/index.html",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

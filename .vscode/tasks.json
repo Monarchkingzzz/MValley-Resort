@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Website in Default Browser",
+      "type": "shell",
+      "command": "cmd.exe /c start index.html",
+      "windows": {
+        "command": "cmd.exe /c start index.html"
+      },
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Start Python Local Web Server (Port 8000)",
+      "type": "shell",
+      "command": "python -m http.server 8000",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mugumo-valley-resort",
+  "version": "1.0.0",
+  "description": "Website for The Mugumo Valley Resort in Thika, Kenya",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve .",
+    "dev": "npx -y live-server"
+  },
+  "keywords": [
+    "resort",
+    "thika",
+    "kenya",
+    "website"
+  ],
+  "author": "The Mugumo Valley Resort",
+  "license": "ISC"
+}
