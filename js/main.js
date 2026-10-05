@@ -2,7 +2,7 @@
  * The Mugumo Valley Resort - Main JavaScript
  * Location: Thika, Kenya
  * 
- * Handles enquiry form submissions and user interactions.
+ * Handles enquiry form submissions, glowing navbar interactions, and reactant clicking animations.
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -40,4 +40,32 @@ document.addEventListener('DOMContentLoaded', () => {
       window.location.href = mailtoUrl;
     });
   }
+
+  // Glowing reactant click ripple animation for all navbar components
+  const navComponents = document.querySelectorAll('header .logo, header nav a');
+  navComponents.forEach((component) => {
+    component.addEventListener('click', function (e) {
+      const rect = this.getBoundingClientRect();
+      const ripple = document.createElement('span');
+      ripple.classList.add('nav-ripple');
+
+      const diameter = Math.max(rect.width, rect.height) * 2;
+      ripple.style.width = `${diameter}px`;
+      ripple.style.height = `${diameter}px`;
+      ripple.style.left = `${e.clientX - rect.left - diameter / 2}px`;
+      ripple.style.top = `${e.clientY - rect.top - diameter / 2}px`;
+
+      // Remove existing ripple if rapidly re-clicked
+      const existing = this.querySelector('.nav-ripple');
+      if (existing) {
+        existing.remove();
+      }
+
+      this.appendChild(ripple);
+
+      setTimeout(() => {
+        ripple.remove();
+      }, 600);
+    });
+  });
 });
