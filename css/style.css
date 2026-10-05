@@ -175,24 +175,42 @@ nav a:hover {
    5. HERO SECTION & POOL SVG WAVE
    -------------------------------------------------------------------------- */
 .hero {
-  background: var(--deep);
+  background-color: var(--deep);
+  background-image: 
+    linear-gradient(
+      180deg,
+      rgba(10, 52, 56, 0.65) 0%,
+      rgba(14, 74, 79, 0.75) 60%,
+      rgba(14, 74, 79, 0.92) 100%
+    ),
+    url("../images/hero-bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #ffffff;
   position: relative;
   overflow: hidden;
-  padding: 84px 0 150px;
+  padding: 88px 0 160px;
+}
+
+.hero .wrap {
+  position: relative;
+  z-index: 2;
 }
 
 .hero h1 {
   font-size: clamp(38px, 7vw, 72px);
   max-width: 14ch;
   letter-spacing: -0.5px;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
 }
 
 .hero p {
   max-width: 48ch;
   font-size: 19px;
   margin: 22px 0 32px;
-  color: #d6ecea;
+  color: #e5f6f4;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.35);
 }
 
 .hero-actions {
